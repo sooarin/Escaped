@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "407254538812",
+    "project_id": "escaped-85171",
+    "storage_bucket": "escaped-85171.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407254538812:android:6753fc1b89417eb3644139",
+        "android_client_info": {
+          "package_name": "com.example.escape9"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407254538812-86qqq3udjr61r3i72e99423a39goegcf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeYoffrAc0e-gbjcfxa8BJok1G8ujpCyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407254538812-86qqq3udjr61r3i72e99423a39goegcf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
